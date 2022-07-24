@@ -9,6 +9,8 @@ const port = parseInt(args.pop()) || 3000;
 
 http.createServer(onRequest).listen(port);
 
+console.log("[ live-stream-proxy-tool ] serve at: ",port)
+
 function onRequest(client_req, client_res) {
   try{
 

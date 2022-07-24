@@ -1,6 +1,6 @@
 {
   "name": "live-stream-proxy-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simpliy proxy server for bilibili Live Stream",
   "main": "index.js",
   "bin": "./index.js",
