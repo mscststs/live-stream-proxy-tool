@@ -1,0 +1,14 @@
+{
+  "name": "live-stream-proxy-tool",
+  "version": "1.0.0",
+  "description": "a simpliy proxy server for bilibili Live Stream",
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": "mscststs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
